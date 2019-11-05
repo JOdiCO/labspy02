@@ -25,3 +25,6 @@ Hasil Eksekusi Program:
 
 ![2019-11-05 14_22_44-Latihan2  J__Mata Kuliah_Bahasa Pemrograman_Latihan2  -  _Latihan2 py - PyChar](https://user-images.githubusercontent.com/56252129/68188269-5a55bd80-ffdb-11e9-8e75-806328f38254.png)
 
+Flowchart Program:
+
+![67572300-21f2eb80-f760-11e9-8aa2-32afa32cd37c](https://user-images.githubusercontent.com/56252129/68188392-99840e80-ffdb-11e9-88c4-2ae8649eed0d.png)
