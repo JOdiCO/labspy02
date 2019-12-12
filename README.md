@@ -1,7 +1,7 @@
 Tugas Membuat Program Sederhana Untuk Menentukan Bilangan Terbesar Dari Input 3 Bilangan
 Algoritmanya
 Langkah pertama yaitu menginput bilangan pertama sampai ketiga, berikut contoh syntaxnya:
-
+```
 a = int(input("Masukkan bilangan A: ")
 b = int(input("Masukkan bilangan B: ")
 c = int(input("Masukkan bilangan C: ")
